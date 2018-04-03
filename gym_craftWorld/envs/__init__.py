@@ -1,2 +1,2 @@
 from gym_craftWorld.envs.craftWorld_env import craftWorldEnv
-from gym_craftWorld.envs.craftWorld_extrahard_env import craftWorldExtraHardEnv
+#from gym_craftWorld.envs.craftWorld_extrahard_env import craftWorldExtraHardEnv
